@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    background-color: coral;
+    padding: 20px 0;
+}
+.card-barra-nav{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    
+}
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+nav li {
+    display: inline;
+    list-style: none; 
+    margin: 0 0 0 15px;
+}
+nav a {
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+ a:hover{
+    color: aliceblue;
+    text-decoration:underline;
+    font-size: 23px;
+ }
+
+.paquetes:hover h2{
+    font-size: 33px;
+
+}
+.paquetes:hover {
+   cursor: pointer; 
+   border-color: coral;
+}
+.paquetes:active{
+    border-color: #2f8324; 
+}
+.productos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px;
+}
+ .productos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top; 
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 12px;
+    
+}
+.productos h2{
+   
+    font-size: 30px;
+    font-weight: bold;
+}
+.producto-descripcion{
+    font-size: 18px;
+ 
+}
+.producto-precio{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+footer {
+    padding: 40px;
+    background:url(./assets/bg.jpg);
+    text-align: center;
+        
+    }
+
+.copyright {
+    margin: 20px;
+    color: coral;
+    font-size: 13px;
+
+}
+
+main{
+    width: 940px;
+    margin: 0 auto;    
+}
+
+form{
+    margin: 40px 0;
+}
+
+form label, form p{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.input-principal{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.checkbox{
+    margin:20px 0;
+}
