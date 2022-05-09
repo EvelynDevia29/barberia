@@ -21,7 +21,7 @@ __Technologies__
 
 ![HTML](https://img.shields.io/badge/HTML5-orange)
 ![CSS](https://img.shields.io/badge/CSS-green)
-![JavaScript](https://img.shields.io/badge/JavaScript-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 
 
@@ -31,33 +31,10 @@ __Technologies__
 **CURSO** | **ORACLE NEXT EDUCATION (PROYECTO ONE)**
 ----------|------------------------
 HTML5 y CSS3 parte 1: |Home 
-Curso definitivo de HTML y CSS|Diego Degranda **Platzi**
-Curso de Frontend Developer|Estefany Aguilar **Platzi**
-Curso práctico de Frontend Developer|Estefany Aguilar **Platzi**
-Curso de programación básica|Freddy Vega **Platzi**
-Curso profesional de Git y GitHub|Freddy Vega **Platzi**
-Curso de Fundamentos de Bases de Datos|Israel Vázquez Morales **Platzi**
-Curso Básico de JavaScript|Diego Degranda **Platzi**
-Curso Práctico de JavaScript|Juan David Castro **Platzi**
-Curso de ECMAScript 6+|Oscar Barajas Tavares /Foundation Layer **Platzi**
-Curso de Introducción al Diseño|Carlos Jiménez/Motion expert and Designer **Platzi**
-Curso de Ilustrator|Carlos Jiménez/Motion expert and Designer **Platzi**
-Curso de Figma|Santiago Camargo/Sr. UX Designer en HUGE **Platzi**
+HTML5 y CSS3 parte 2:|Posicionamiento, listas y navegación
+HTML5 y CSS3 parte 3:|Formularios y tablas
+HTML5 y CSS3 parte 4:|Avanzado en CSS3
 
-
-__Soft Skills__
-**CURSO** | **TEACHER AND ACADEMY**
-----------|------------------------
-Curso para encontrar y evaluar ideas para emprender|Juliane Butty/Head of B2B & Startups **Platzi**
-Audiocurso de Igualdad de Género|Sandra Escobar **Platzi**
-Curso de Diversidad, Inclusión y No Discriminación|Ophelia Pastrana **Platzi**
-
-
-
-
-🌱 I’m currently learning English in Open English and MongoDB and PHP in **Platzi**
-
-🌱 I am part of the **Oracle** one project as a developer in training **ONE(Oracle Next Education**)
 
 ## __How to reach me:__
 
