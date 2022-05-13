@@ -129,5 +129,17 @@ fieldset{
 }
 .boton-enviar{
     width: 40%;
-    
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background: #ff7f50;
+    border: none;
+    border-radius: 12px;
+   }
+
+.boton-enviar:hover{
+
+    background: black;
+    color: white;
 }
