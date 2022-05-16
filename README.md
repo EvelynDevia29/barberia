@@ -21,7 +21,7 @@ __Technologies__
 
 ![HTML](https://img.shields.io/badge/HTML5-orange)
 ![CSS](https://img.shields.io/badge/CSS-green)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
 
 
 
