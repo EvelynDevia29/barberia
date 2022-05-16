@@ -1,4 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    background-color: coral;
+    padding: 20px 0;
+    display: inline-block;
+    width: 100%;
+}
+.card-barra-nav{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+    
+}
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+nav li {
+    display: inline;
+    list-style: none; 
+    margin: 0 0 0 15px;
+    
+}
 
+nav a {
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    margin-left: 5em;
+}
+
+ a:hover{
+    color: aliceblue;
+    font-size: 23px;
+ }
 
 #banner{
     width: 100%;
@@ -45,3 +88,11 @@ ul{
     
     width: 50%;
 }
+footer {
+    padding: 40px;
+    background:url(./assets/bg.jpg);
+    text-align: center;
+    color: coral;
+    font-size: 13px;
+        
+    }

@@ -26,18 +26,21 @@ nav li {
     display: inline;
     list-style: none; 
     margin: 0 0 0 15px;
+    
 }
 nav a {
     color: black;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
-
 }
+
+
  a:hover{
     color: aliceblue;
-    text-decoration:underline;
+    /* text-decoration:underline; */
     font-size: 23px;
+
  }
 
 .paquetes:hover h2{
@@ -136,10 +139,31 @@ fieldset{
     background: #ff7f50;
     border: none;
     border-radius: 12px;
+    transition: 1s background;
+    cursor:pointer;
    }
 
 .boton-enviar:hover{
 
-    background: black;
+    background:#252726;
     color: white;
+    transform: scale(1.2) ;
+    
+}
+table{
+    margin: 40px 40px;
+     
+}
+thead{
+    background: #ff7f50;
+    color: white;
+    font-weight: bold;
+}
+th{
+    border: 1px solid black;
+    padding: 8px 15px;
+}
+tfoot th{
+  font-size: 12px;
+  border: none;
 }
